@@ -1,0 +1,1 @@
+sudo podman run --rm --privileged --volume .:/output --volume ./config-qcow2.json:/config.json registry.redhat.io/rhel9/bootc-image-builder:latest --type qcow2 --config /config.json --tls-verify=false --rootfs xfs quay.io/tmichett/fedora_bootc:latest

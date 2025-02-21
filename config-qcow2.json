@@ -1,0 +1,16 @@
+{
+  "blueprint": {
+    "customizations": {
+      "user": [
+        {
+          "name": "lab-user",
+          "password": "lb1506",
+          "key": "SSHKEY",
+          "groups": [
+            "wheel"
+          ]
+        }
+      ]
+    }
+  }
+}
