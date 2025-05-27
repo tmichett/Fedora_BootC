@@ -1,7 +1,10 @@
 vim
 sshfs
+@Virtualization
 guestfs-tools
 python3-libguestfs
+"@RPM Development Tools"
+"@Development Tools"
 createrepo
 rclone
 isomd5sum
@@ -61,9 +64,12 @@ uv
 toolbox
 python-pyyaml
 linux-system-roles
+@hardware-support
 wireguard-tools
 firefox
 chromium
+@Gnome-desktop
+libreoffice
 python-jmespath
 lshw
 pciutils
