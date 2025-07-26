@@ -29,6 +29,12 @@ terminator
 sshuttle
 cockpit-files
 cockpit-image-builder
+cockpit-composer
+cockpit-doc
+cockpit-machines
+cockpit-podman
+cockpit-selinux
+cockpit-session-recording
 meson
 ninja-build
 pinentry
