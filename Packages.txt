@@ -27,7 +27,8 @@ yad
 pykickstart
 terminator
 sshuttle
-cockpit*
+cockpit-files
+cockpit-image-builder
 meson
 ninja-build
 pinentry
